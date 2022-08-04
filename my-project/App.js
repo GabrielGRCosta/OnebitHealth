@@ -6,8 +6,10 @@ import Main from './src/components/Main/'
 export default function App() {
   return (
     <View style={styles.container}>
-	<Title/>
-	<Main/>
+    { <Text> bora dale </Text>
+	    //<Title/>
+	    // <Main/>
+    }
     </View>
   );
 }
